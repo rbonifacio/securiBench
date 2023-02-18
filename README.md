@@ -2,11 +2,11 @@
 
 This is a fork from the `securibench` component of FlowDroid.
 
-## Execute the Benchmark
+### Execute the Benchmark
 
 Just run `mvn compile test`
 
-## Status
+### Status
 
 Currently, out of 104 unit tests, 32 are broken.
 
@@ -24,3 +24,9 @@ Summary
 [INFO] Finished at: 2023-02-18T09:55:20-03:00
 [INFO] ------------------------------------------------------------------------
 ```
+
+### Authors
+
+   * Rodrigo Bonifácio
+   * José Vicente
+   * Bruno Berto de Oliveira Ribeiro 
